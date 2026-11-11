@@ -1,0 +1,23 @@
+{
+  "block.squidgame.block_one": "Block 1 (Start)",
+  "block.squidgame.block_two": "Block 2 (Finish)",
+  "itemGroup.squidgame": "Squid Game",
+  "item.squidgame.headphones": "Headphones",
+  "block.squidgame.bridge_glass": "Bridge glass (2x2)",
+  "item.squidgame.bridge_glass": "Bridge glass (2x2)",
+  "item.squidgame.bridge_wand": "Green bridge stick",
+  "block.squidgame.final_block": "F Block (Final)",
+  "item.squidgame.control_stick": "Purple control stick",
+  "block.squidgame.cookie_blue": "Blue cookie tray",
+  "item.squidgame.cookie_blue": "Blue cookie tray",
+  "item.squidgame.cookie_item_blue": "Blue cookie",
+  "block.squidgame.cookie_green": "Green cookie tray",
+  "item.squidgame.cookie_green": "Green cookie tray",
+  "item.squidgame.cookie_item_green": "Green cookie",
+  "block.squidgame.cookie_yellow": "Yellow cookie tray",
+  "item.squidgame.cookie_yellow": "Yellow cookie tray",
+  "item.squidgame.cookie_item_yellow": "Yellow cookie",
+  "block.squidgame.cookie_red": "Red cookie tray",
+  "item.squidgame.cookie_red": "Red cookie tray",
+  "item.squidgame.cookie_item_red": "Red cookie"
+}

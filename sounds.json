@@ -1,0 +1,42 @@
+{
+  "green_light": {
+    "sounds": [
+      {
+        "name": "squidgame:green_light",
+        "stream": false
+      }
+    ]
+  },
+  "red_light": {
+    "sounds": [
+      {
+        "name": "squidgame:red_light",
+        "stream": false
+      }
+    ]
+  },
+  "gunshot": {
+    "sounds": [
+      {
+        "name": "squidgame:gunshot",
+        "stream": false
+      }
+    ]
+  },
+  "pass": {
+    "sounds": [
+      {
+        "name": "squidgame:pass",
+        "stream": false
+      }
+    ]
+  },
+  "fail": {
+    "sounds": [
+      {
+        "name": "squidgame:fail",
+        "stream": false
+      }
+    ]
+  }
+}
